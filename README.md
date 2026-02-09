@@ -1,6 +1,6 @@
 # rdebrid
 
-CLI tool to download files via Real-Debrid. Unrestricts links and magnets, downloads with aria2c.
+CLI tool to download files via Real-Debrid. Unrestricts links and magnets, downloads with aria2c. Built with Claude Code.
 
 ## Install
 
